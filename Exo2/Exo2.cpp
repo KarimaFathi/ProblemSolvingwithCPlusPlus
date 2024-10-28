@@ -13,8 +13,6 @@ void printName(string name) {
 	cout << "Your name is " << name << endl;
 }
 
-
-
 int main()
 {
 
