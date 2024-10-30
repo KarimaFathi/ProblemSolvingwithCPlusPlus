@@ -1,0 +1,4 @@
+﻿  Exo17.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo17\Exo17.cpp(25,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo17\Exo17.cpp(25,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Exo17.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo17\x64\Debug\Exo17.exe
