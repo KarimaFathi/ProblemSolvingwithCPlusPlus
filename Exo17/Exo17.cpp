@@ -24,3 +24,4 @@ int main()
     readDimensions(a, h);
     printArea(calculateArea(a, h));
 }
+
