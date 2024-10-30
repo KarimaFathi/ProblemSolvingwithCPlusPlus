@@ -1,0 +1,4 @@
+﻿  Exo19.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo19\Exo19.cpp(14,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ProblemSolvingwithCPlusPlus\Exo19\Exo19.cpp(15,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Exo19.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo19\x64\Debug\Exo19.exe
