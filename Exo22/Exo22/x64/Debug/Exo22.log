@@ -1,0 +1,4 @@
+﻿  Exo22.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo22\Exo22.cpp(13,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ProblemSolvingwithCPlusPlus\Exo22\Exo22.cpp(14,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Exo22.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo22\x64\Debug\Exo22.exe
