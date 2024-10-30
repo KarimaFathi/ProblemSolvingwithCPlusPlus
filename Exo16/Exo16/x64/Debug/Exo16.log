@@ -1,0 +1,3 @@
+﻿  Exo16.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo16\Exo16.cpp(13,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Exo16.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo16\x64\Debug\Exo16.exe
