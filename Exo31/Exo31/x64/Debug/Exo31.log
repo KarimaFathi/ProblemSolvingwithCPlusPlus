@@ -1,0 +1,5 @@
+﻿  Exo31.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo31\Exo31.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo31\Exo31.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo31\Exo31.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Exo31.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo31\x64\Debug\Exo31.exe
