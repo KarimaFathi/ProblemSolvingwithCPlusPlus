@@ -23,7 +23,6 @@ int calculatePower(int number, int exponent)  {
     }
 }
 
-
 int main()
 {
     int number, exponent;
