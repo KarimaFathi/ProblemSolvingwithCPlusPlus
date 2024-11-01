@@ -1,0 +1,8 @@
+﻿  Exo36.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(25,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(28,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(31,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(37,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(47,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo36\Exo36.cpp(47,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Exo36.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo36\x64\Debug\Exo36.exe
