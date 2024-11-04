@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// we can use enum here too as another option;
+// we can use enum here too as another option.
 int readPositiveNumber() {
     int number;
     do {
