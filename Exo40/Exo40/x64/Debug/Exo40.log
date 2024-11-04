@@ -1,0 +1,4 @@
+﻿  Exo40.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo40\Exo40.cpp(14,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo40\Exo40.cpp(20,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Exo40.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo40\x64\Debug\Exo40.exe
