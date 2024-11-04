@@ -1,0 +1,6 @@
+﻿  Exo42.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo42\Exo42.cpp(26,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo42\Exo42.cpp(27,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo42\Exo42.cpp(28,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo42\Exo42.cpp(29,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Exo42.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo42\x64\Debug\Exo42.exe
