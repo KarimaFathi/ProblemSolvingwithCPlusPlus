@@ -1,0 +1,4 @@
+﻿  Exo39.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo39\Exo39.cpp(22,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo39\Exo39.cpp(23,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Exo39.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo39\x64\Debug\Exo39.exe
