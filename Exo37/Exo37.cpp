@@ -10,6 +10,8 @@ int readNumber(string message) {
     
 }
 
+// sol 1
+
 //int sumNumbers(int num) {
 //    int sum = 0, counter = 2;
 //    while (num != -99) {
