@@ -1,0 +1,9 @@
+﻿  Exo43.cpp
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(19,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(25,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(26,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(32,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(33,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(39,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ProblemSolvingwithCPlusPlus\Exo43\Exo43.cpp(40,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Exo43.vcxproj -> D:\ProblemSolvingwithCPlusPlus\Exo43\x64\Debug\Exo43.exe
