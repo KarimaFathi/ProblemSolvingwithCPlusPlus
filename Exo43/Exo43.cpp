@@ -44,7 +44,10 @@ int convertMinutesRemainderToSeconds(int totalOfSeconds) {
 int main()
 {
 	int totalOfSeconds = readPositiveNumber("Please enter the total number of seconds.\n");
-	cout << convertSecondsToDays(totalOfSeconds) << ":" << convertDaysRemainderToHours(totalOfSeconds) << ":" << convertHoursRemainderToMinutes(totalOfSeconds) << ":" << convertMinutesRemainderToSeconds(totalOfSeconds) << endl;
+	cout << convertSecondsToDays(totalOfSeconds) << ":" 
+		<< convertDaysRemainderToHours(totalOfSeconds) << ":" 
+		<< convertHoursRemainderToMinutes(totalOfSeconds) << ":" 
+		<< convertMinutesRemainderToSeconds(totalOfSeconds) << endl;
 	return 0;
 
 }
