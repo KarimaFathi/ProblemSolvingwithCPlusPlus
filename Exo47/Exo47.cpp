@@ -35,7 +35,7 @@ int main()
 	cout << printBalance(readATMPINCode());
 }
 
-//method 2:
+//Method 2: 
 
 //string readPinCode() {
 //	string PinCode;
